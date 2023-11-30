@@ -1,0 +1,7 @@
+C:\temp\ws-vs2019\Multiplos\Multiplos\bin\Debug\Multiplos.exe.config
+C:\temp\ws-vs2019\Multiplos\Multiplos\bin\Debug\Multiplos.exe
+C:\temp\ws-vs2019\Multiplos\Multiplos\bin\Debug\Multiplos.pdb
+C:\temp\ws-vs2019\Multiplos\Multiplos\obj\Debug\Multiplos.csproj.AssemblyReference.cache
+C:\temp\ws-vs2019\Multiplos\Multiplos\obj\Debug\Multiplos.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\Multiplos\Multiplos\obj\Debug\Multiplos.exe
+C:\temp\ws-vs2019\Multiplos\Multiplos\obj\Debug\Multiplos.pdb
